@@ -6,6 +6,6 @@
 
 2) [Recipes](http://www.gypsythief.org.uk/Recipes)
 
-3) [Geek's Map to Britain](http://www.gypsythief.org.uk/GeeksMapToBritain)
+3) [Geek's Map to Britain](http://www.gypsythief.org.uk/GeeksMapToBritain/)
 
 So long, and thanks for all the phish.
