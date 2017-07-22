@@ -4,7 +4,7 @@
 
 1) [Big Red Button](http://www.gypsythief.org.uk/BigRedButton)
 
-2) [Recipes](http://www.gypsythief.org.uk/Recipes)
+2) [Recipes](http://recipes.gypsythief.org.uk)
 
 3) [Geek's Map to Britain](http://www.gypsythief.org.uk/GeeksMapToBritain/)
 
