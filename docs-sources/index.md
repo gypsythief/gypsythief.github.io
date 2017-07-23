@@ -4,11 +4,11 @@
 
 ### Projects
 
-* [Big Red Button](http://www.gypsythief.org.uk/BigRedButton)
+* [Big Red Button](http://www.gypsythief.org.uk/BigRedButton/index.html)
 
-* [Recipes](http://www.gypsythief.org.uk/Recipes)
+* [Recipes](http://www.gypsythief.org.uk/Recipes/index.html)
 
-* [Geek's Map to Britain](http://www.gypsythief.org.uk/GeeksMapToBritain/)
+* [Geek's Map to Britain](http://www.gypsythief.org.uk/GeeksMapToBritain/index.html)
 
 ---
 
