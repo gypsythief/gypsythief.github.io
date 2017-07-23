@@ -2,6 +2,7 @@ site_name: Gypsythief
 theme: 'windmill'
 docs_dir: docs-sources
 site_dir: docs-built
+use_directory_urls: false
 extra:
  article_nav_top: false
  article_nav_bottom: false
