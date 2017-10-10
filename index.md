@@ -4,7 +4,7 @@
 
 ### Projects
 
-* [Big Red Button](http://www.gypsythief.org.uk/BigRedButton/index.html)
+* [Big Red Button](http://www.gypsythief.org.uk/BigRedButton/)
 
 * [Recipes](http://www.gypsythief.org.uk/Recipes/index.md)
 
