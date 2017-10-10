@@ -1,7 +1,5 @@
 ## Welcome to Gypsythief
 
----
-
 ### Projects
 
 * [Big Red Button](http://www.gypsythief.org.uk/BigRedButton/)
